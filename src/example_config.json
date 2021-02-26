@@ -3,7 +3,7 @@
     "invokeUrl": "https://5bltcq602h.execute-api.us-west-2.amazonaws.com/prod"
   },
   "cognito": {
-    "REGION": "us-east-1",
+    "REGION": "<AWS_REGION>",
     "USER_POOL_ID": "<USER_POOL_ID>",
     "APP_CLIENT_ID": "<APP_CLIENT_ID>"
   }
